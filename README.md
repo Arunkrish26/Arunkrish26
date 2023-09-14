@@ -4,7 +4,7 @@ My goal is to create clean, modular, and scalable code that translates into intu
 
 🌱 I’m currently learning Front end Developer
 
-👨‍💻 All of my projects are available at https://www.behance.net/Yuvaraj_G
+👨‍💻 All of my projects are available at 
 
 📫 How to reach me arunkrish2611@gmail.com
 
