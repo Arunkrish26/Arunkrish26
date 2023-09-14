@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Arunkrish26
-- 👀 I’m interested in Frontend Web Development ..
-- 🌱 I’m currently learning html,css,javascript,tailwind  and Reactjs...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello! I'm Arun krishnan, a passionate front-end developer with a love for crafting engaging and user-friendly web experiences.
+🌟 I specialize in front-end technologies such as HTML5, CSS3,TaiwlwindCss and JavaScript, and I'm always excited to explore new frameworks and libraries.
+My goal is to create clean, modular, and scalable code that translates into intuitive user interfaces .
 
-<!---
-Arunkrish26/Arunkrish26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning Front end Developer
+
+👨‍💻 All of my projects are available at https://www.behance.net/Yuvaraj_G
+
+📫 How to reach me arunkrish2611@gmail.com
+
+Connect with me:
+https://www.linkedin.com/in/arun-krishnan-a08010262/
+
+
